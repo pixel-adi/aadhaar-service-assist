@@ -17,12 +17,12 @@ It is designed to stay within the **Aadhaar Act, 2016** (no collection of Aadhaa
 
 **Claude Code:** copy the `aadhaar-service-assist/` folder into `~/.claude/skills/`, or:
 ```
-npx skills add <github-owner>/aadhaar-service-assist --agent claude-code
+npx skills add pixel-adi/aadhaar-service-assist --agent claude-code
 ```
 
 **ChatGPT:** Skills → Create → Upload from your computer → choose `aadhaar-service-assist.zip`.
 
-**Codex, Cursor, GitHub Copilot, VS Code and other Agent Skills–compatible tools:** place the `aadhaar-service-assist/` folder in the tool's skills directory, or use `npx skills add <github-owner>/aadhaar-service-assist`.
+**Codex, Cursor, GitHub Copilot, VS Code and other Agent Skills–compatible tools:** place the `aadhaar-service-assist/` folder in the tool's skills directory, or use `npx skills add pixel-adi/aadhaar-service-assist`.
 
 ## Structure
 
